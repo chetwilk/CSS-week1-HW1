@@ -1,4 +1,21 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
+  background-color: #aaa;
+}
+
+header {
+  background-color: darkblue;
+}
+
+nav {
+  background-color: lightblue;
+}
+
+main {
+  background-color: lightblue;
+}
+
+footer {
+  background-color: darkblue;
 }
